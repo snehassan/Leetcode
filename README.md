@@ -23,4 +23,20 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0035-search-insert-position](https://github.com/snehassan/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/snehassan/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/snehassan/Leetcode/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/snehassan/Leetcode/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/snehassan/Leetcode/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/snehassan/Leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
