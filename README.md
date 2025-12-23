@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/snehassan/Leetcode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/snehassan/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/snehassan/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/snehassan/Leetcode/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/snehassan/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/snehassan/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/snehassan/Leetcode/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/snehassan/Leetcode/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/snehassan/Leetcode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/snehassan/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
@@ -43,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0101-symmetric-tree](https://github.com/snehassan/Leetcode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/snehassan/Leetcode/tree/master/0226-invert-binary-tree) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/snehassan/Leetcode/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/snehassan/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
