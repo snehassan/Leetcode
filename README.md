@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehassan/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/snehassan/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0169-majority-element](https://github.com/snehassan/Leetcode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/snehassan/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/snehassan/Leetcode/tree/master/0283-move-zeroes) |
 ## Matrix
 |  |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/snehassan/Leetcode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/snehassan/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
