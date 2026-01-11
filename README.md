@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/snehassan/Leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehassan/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/snehassan/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0169-majority-element](https://github.com/snehassan/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/snehassan/Leetcode/tree/master/0283-move-zeroes) |
 ## Matrix
 |  |
@@ -66,4 +67,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/snehassan/Leetcode/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/snehassan/Leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/snehassan/Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/snehassan/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/snehassan/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
