@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/snehassan/Leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehassan/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/snehassan/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0283-move-zeroes](https://github.com/snehassan/Leetcode/tree/master/0283-move-zeroes) |
 ## Matrix
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehassan/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/snehassan/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/snehassan/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
