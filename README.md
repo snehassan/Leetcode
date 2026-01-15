@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/snehassan/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/snehassan/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/snehassan/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/snehassan/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Matrix
 |  |
 | ------- |
@@ -92,9 +93,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/snehassan/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/snehassan/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehassan/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/snehassan/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/snehassan/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
