@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0035-search-insert-position](https://github.com/snehassan/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/snehassan/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/snehassan/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Tree
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehassan/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/snehassan/Leetcode/tree/master/0169-majority-element) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/snehassan/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/snehassan/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -103,4 +105,17 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/snehassan/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/snehassan/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Union-Find
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/snehassan/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/snehassan/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Ordered Set
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/snehassan/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
