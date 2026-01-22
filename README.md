@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/snehassan/Leetcode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/snehassan/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/snehassan/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/snehassan/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/snehassan/Leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehassan/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/snehassan/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/snehassan/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/snehassan/Leetcode/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/snehassan/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/snehassan/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
