@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/snehassan/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/snehassan/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/snehassan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2312-selling-pieces-of-wood](https://github.com/snehassan/Leetcode/tree/master/2312-selling-pieces-of-wood) |
 ## Matrix
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehassan/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/snehassan/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [2312-selling-pieces-of-wood](https://github.com/snehassan/Leetcode/tree/master/2312-selling-pieces-of-wood) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/snehassan/Leetcode/tree/master/0078-subsets) |
+## Memoization
+|  |
+| ------- |
+| [2312-selling-pieces-of-wood](https://github.com/snehassan/Leetcode/tree/master/2312-selling-pieces-of-wood) |
 <!---LeetCode Topics End-->
